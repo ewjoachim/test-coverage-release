@@ -12,3 +12,4 @@
 
 ![coverage 6](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ewjoachim/test-coverage-release/coverage/python-coverage-comment-action-badge.json)
 
+![coverage 3](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=coverage&query=%24.message&url=https://raw.githubusercontent.com/ewjoachim/test-coverage-release/coverage/python-coverage-comment-action-badge.json)
